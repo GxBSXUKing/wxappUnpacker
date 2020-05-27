@@ -1,0 +1,1 @@
+node wuWxapkg.js E:\xxx\_111_1.wxapkg（路径）
